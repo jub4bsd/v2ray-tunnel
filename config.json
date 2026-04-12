@@ -2,19 +2,21 @@
   "inbounds": [
     {
       "port": 8080,
-      "protocol": "trojan",
+      "protocol": "vless",
       "settings": {
         "clients": [
           {
-            "password": "Kira_tech_gcp",
+            "id": "c4f2e9a1-7b3d-4c8e-9f21-6a5d8b3e1c90",
             "level": 0
           }
-        ]
+        ],
+        "decryption": "none"
       },
       "streamSettings": {
         "network": "ws",
+        "security": "none",
         "wsSettings": {
-          "path": "/juba"
+          "path": "/Kira-Tech-GCP/@jub_4a"
         }
       }
     }
