@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "c4f2e9a1-7b3d-4c8e-9f21-6a5d8b3e1c90",
+            "id": "8f3c1b72-5d4e-4a9f-b8c6-2e71d93fa4ab",
             "level": 0
           }
         ],
@@ -16,7 +16,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/@kir4_tech/@Kir_4a"
+          "path": "/@Kira-Tech-GCP/@yagami-juba"
         }
       }
     }
